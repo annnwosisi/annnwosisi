@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annnwosisi
-- 👀 I’m interested in Product design and management and data analysis
-- 🌱 I’m currently learning Product design and Data analysis
-- 💞️ I’m looking to collaborate on Product design/ management projects
+- 👀 I’m interested in data analysis
+- 🌱 I’m a recent graduate of the Udacity Data analysis Nanodegree program
+- 💞️ I’m looking to collaborate on Data analysis project
 - 📫 How to reach me annnwosisi@gmail.com
 
 <!---
